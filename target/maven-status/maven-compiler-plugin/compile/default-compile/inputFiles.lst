@@ -1,0 +1,12 @@
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/web/TeamController.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/web/PlayerController.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/repository/TeamRepository.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/model/Team.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/repository/PlayerRepository.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/service/PlayerService.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/config/JpaConfig.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/model/Player.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/service/TeamService.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/config/RestApiInitializer.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/config/RootConfig.java
+/home/kateryna/programsZ/procamp/football-manager/src/main/java/config/WebConfig.java

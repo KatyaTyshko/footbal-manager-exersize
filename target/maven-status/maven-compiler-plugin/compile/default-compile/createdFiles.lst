@@ -1,0 +1,13 @@
+repository/TeamRepository.class
+web/TeamController.class
+web/PlayerController.class
+model/Player.class
+config/RestApiInitializer.class
+config/WebConfig.class
+service/TeamService.class
+service/PlayerService.class
+model/Team.class
+model/Player$Position.class
+repository/PlayerRepository.class
+config/JpaConfig.class
+config/RootConfig.class
